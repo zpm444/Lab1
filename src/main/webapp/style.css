@@ -1,0 +1,66 @@
+body {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,201,0.9);
+}
+
+.container {
+    position: fixed;
+    margin-top: 15%;
+    margin-left: 45%;
+    text-align: center;
+}
+
+label {
+    font: normal 27px/normal Arial Black, Gadget, sans-serif;
+    color: Black;
+}
+
+a {
+    display: inline-block;
+    background-color: rgba(255,255,201,0.9);
+    border-style: Solid;
+    border-width: 5px;
+    border-radius: 20px;
+    font: normal 27px/normal Arial Black, Gadget, sans-serif;
+    color: Black;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+form{
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 35%;
+    top: 0;
+    left: 0;
+    width: 30%;
+    height: 50%;
+    border-style: Solid;
+    border-radius: 3px;
+    color: Black;
+}
+
+button {
+    margin-top: 3%;
+    width: 30%;
+    height: 20%;
+    font: normal 27px/normal Arial Black, Gadget, sans-serif;
+    background-color: rgba(255,255,255,0);
+    border-style: Solid;
+    border-color: Black;
+    border-radius: 2px;
+}
+
+p {
+    font: normal 14px/normal Arial Black, Gadget, sans-serif;
+}
+
+.time {
+    margin-top: 15%;
+    margin-left: 33%;
+}
